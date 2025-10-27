@@ -8,7 +8,7 @@
   --color-back-groud-dark: #111010;
 
   --font-primary: 'Inter', sans-serif;
-  --font-secund: 'DM Sans', sans-serif;
+  --font-secondary: 'DM Sans', sans-serif;
 }
 
 .teste1 {
@@ -21,7 +21,7 @@
 .teste2 {
   background-color: var(--color-back-groud-dark);
   color: var(--color-back-barr);
-  font-family: var(--font-secund);
+  font-family: var(--font-secondary);
   width: 200px;
   height: 200px;
 }
