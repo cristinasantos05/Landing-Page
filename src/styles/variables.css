@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --color-text: #fff;
+  --color-back-box-2: #0c8bfd;
+  --color-back-barr: #e0e3ee;
+  --color-back-groud-dark: #111010;
+
+  --font-primary: 'Inter', sans-serif;
+  --font-secondary: 'DM Sans', sans-serif;
+}
+
+.teste1 {
+  background-color: var(--color-back-box-2);
+  color: var(--color-text);
+  font-family: var(--font-primary);
+  width: 200px;
+  height: 200px;
+}
+.teste2 {
+  background-color: var(--color-back-groud-dark);
+  color: var(--color-back-barr);
+  font-family: var(--font-secondary);
+  width: 200px;
+  height: 200px;
+}
