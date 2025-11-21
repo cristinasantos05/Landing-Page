@@ -10,18 +10,3 @@
   --font-primary: 'Inter', sans-serif;
   --font-secondary: 'DM Sans', sans-serif;
 }
-
-.teste1 {
-  background-color: var(--color-back-box-2);
-  color: var(--color-text);
-  font-family: var(--font-primary);
-  width: 200px;
-  height: 200px;
-}
-.teste2 {
-  background-color: var(--color-back-groud-dark);
-  color: var(--color-back-barr);
-  font-family: var(--font-secondary);
-  width: 200px;
-  height: 200px;
-}
